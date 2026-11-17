@@ -1,0 +1,7 @@
+ОТЧЕТ О ВАЛИДАЦИИ И РАБОТОСПОСОБНОСТИ
+Дата: 2026-11-17 19:30:25
+Пользователь: Тимур
+Служба: active (Docker container my_postgres)
+pg_isready: localhost:5432 - accepting connections
+Тестовый запрос: OK (Колонка phone добавлена)
+Итог: сервис работоспособен
